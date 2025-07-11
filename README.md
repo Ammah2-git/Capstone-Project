@@ -1,1 +1,3 @@
-# Capstone-Project
+Dependencies: 
+opencv-python
+mediapipe
