@@ -1,8 +1,7 @@
 
 # 📦 Real-Time Production Line Monitoring System  
-**Capstone Project – Final Year Mechatronics Engineering**
 
----
+
 
 ## 📌 Project Overview
 
@@ -122,29 +121,4 @@ Capstone-Project/
 
 ---
 
-## 🙋 Contributors
 
-- 👨‍💻 **[Your Name]**  
-  Final Year Mechatronics Engineering Student  
-  UTM | Capstone Project 2025
-
----
-
-## 📬 Contact
-
-For questions or improvements:  
-📧 [your.email@example.com]  
-📍 Universiti Teknologi Malaysia (UTM)
-
----
-
-## 📌 Future Work (Optional)
-
-- Add MQTT/Socket communication to IoT dashboards.
-- Integrate hand tracking or pose estimation for detailed actions.
-- Add GUI dashboard (see `Interface/` folder).
-- Port system to Raspberry Pi (`rpi/` folder) with edge processing.
-
----
-
-> ⭐ If you find this project useful, feel free to star 🌟 the repo or share your feedback!
